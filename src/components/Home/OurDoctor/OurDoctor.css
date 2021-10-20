@@ -1,0 +1,57 @@
+.doctor_container {
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+    border: 1px solid #FF725E;
+    border-radius: 20px;
+    transition: .7s ease all;
+}
+.doctor_container:hover {
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.4);
+    transform: scale(1.03);
+}
+
+
+.doctor_img {
+    transition: .4s ease all;
+}
+.doctor_img:hover {
+    transform: scale(1.1);
+}
+
+.appointment_button {
+    background-color: #FF725E;
+    padding: 10px;
+}
+
+.appointment_button button {
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    font-weight: 500;
+}
+
+
+.social_icon {
+    padding: 10px;
+}
+.social_icon i {
+    margin: 0 10px;
+    font-size: 18px;
+    font-weight: bolder;
+    cursor: pointer;
+    transition: .4s ease all;
+    border-top: 3px solid #FF725E;
+    border-right: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+    border-left: 3px solid transparent;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    line-height: 25px;
+    transition: 1s ease all;
+}
+.social_icon i:hover {
+    border-right: 3px solid #FF725E;
+    border-bottom: 3px solid #FF725E;
+    background-color: F0F0F0;
+    transform: rotate(360deg);
+}

@@ -1,0 +1,38 @@
+[
+    {
+      "id": "01",
+      "name": "Virtual Care",
+      "description": "NextCare and its family of brands are dedicated to creating a safe and accessible healthcare environment for patients. To continue to serve our communities while we face COVID-19, we are excited to announce we are expanding our services to offer Virtual Care Video Visits. You can access a provider from the comfort of your home or office with your web browser via the HIPAA secure platform. We accept most major insurances, cash pay and medical discount program members.Below you will find a list of states where you can access Virtual Care services from anywhere in the state. Please click the state you are currently located in below to access the virtual queue and complete the registration process.Once checked in, you will receive a confirmation text/email.  You will click on that link within the text/email to have the video visit with our provider.",
+      "img": "https://i.ibb.co/HqJ05Tk/007.png"
+    },
+    {
+      "id": "02",
+      "name": "Antibody Testing",
+      "description": "NextCare and its family of brands are dedicated to providing patients the most up-to-date information and treatment options to fight COVID-19. Many agree that testing (diagnostic and antibody) for the general population is an important component in managing the spread of the virus. We are taking the next step in this testing continuum and are now offering COVID-19 Antibody Testing! This new antibody testing is an important tool we can provide to our patients, which will help them to know if they may have had COVID-19 previously, and potentially identify the people they could have possibly put at risk. The complexity of the virus makes antibody testing very important, especially for those who may have had the virus and been asymptomatic. Our antibody testing process is both easy and safe. After a provider evaluation, the test is completed through the collection of a blood sample. Patients can check-in online in advance to help reduce wait times. As an additional safety measure, we are offering antibody testing at many of our locations with an alternative entrance to provide a safe and sanitary environment. Visit a nearby clinic today for your test. Locations offering COVID-19 Antibody Testing will have the Antibody Testing icon (Pictured Below) next to them.",
+      "img": "https://i.ibb.co/YkT8NyJ/001.png"
+    },
+    {
+      "id": "03",
+      "name": "Illness",
+      "description": "We know that staying healthy is you and your family’s number one priority. However, sometimes, no matter what you do, you get sick. That’s where NextCare can help.  For treatment for illnesses like colds or sore throats, NextCare is your choice for caring, affordable and convenient medical care.When feeling great can’t wait, NextCare is here for you. Daytime, evenings, weekends, and holidays, NextCare Urgent Care provides quality injury and illness treatment from a compassionate, caring staff to help you feel better.If you are unsure whether a NextCare Urgent Care medical center is right for your same-day care needs, please consult the list below or contact our Customer Service Center at 1-888-851-4458.",
+      "img": "https://i.ibb.co/cLb5hSG/004.png"
+    },
+    {
+      "id": "04",
+      "name": "Injuries",
+      "description": "Not all injuries require a trip to the emergency room. So for less severe cuts, bumps and bruises, skip the wait and walk into any convenient NextCare location.  Not only will we save you time and money, we’ll get you back on the path to healing and feeling better sooner. Please consult our list below for guidance, or contact our Customer Service Center at 1-888-381-4858 if you are trying to decide whether to visit NextCare for your injuries.",
+      "img": "https://i.ibb.co/Xp2P1XR/002.png"
+    },
+    {
+      "id": "05",
+      "name": "X-Rays & Labs",
+      "description": "Most of our locations nationwide offer in-house X-ray Services so come and get checked out immediately. From broken bones to compound fractures, we at NextCare can service your most urgent injuries. You can call ahead using our WAHOO (Wait at Home or Office) service so that you don’t have to wait in the lobby for your X-ray.NextCare Urgent Care offers in-house X-Ray Services at most of its locations nationwide.  If you are in need for an X-ray for any type of injury like a broken bone or a compound fracture, come to NextCare and get checked out.  You can also call ahead using our WAHOO (Wait at Home or Office) service so that you don’t have to wait in the lobby for your X-Ray. With our in-house X-ray machines, we are ready to service your most urgent injuries. From broken bones to compound fractures, NextCare’s X-ray services can help.",
+      "img": "https://i.ibb.co/JC4wbrc/003.png"
+    },
+    {
+      "id": "06",
+      "name": "Vaccinations",
+      "description": "Whether you want to protect your children from a common illness or need to prepare for a trip overseas, vaccination is one of the safest and most effective lines of defense against many dangerous diseases. What Vaccinations We Offer.Various NextCare Urgent Care clinics provide vaccinations for a number of the following diseases. However, not all vaccinations are offered at all locations. Please call 1-888-381-4858 to confirm availability of a specific vaccination at your nearest NextCare clinic.Flu Shots Hepatitis B, Meningitis (PrimaCare and Impact Urgent Care clinics),Tetanus/Diphtheria/Pertussis (TDAP).Vaccinations Can Protect You Today Visit your nearest Nextcare location or check in online to get up to date with your vaccinations.  For questions about availability, please call us at 888-381-4858 Can Vaccinations Help Protect Me? Viral vaccinations stimulate an immune system response to a specific virus, creating antibodies to fight off the virus if you become exposed later in life. Vaccines today contain the same or similar germs that cause certain diseases, but the germs are either dead, weakened, or incomplete, which means that transmission of the virus itself is not possible via the vaccine. Vaccinations can be credited for the near-eradication of certain diseases in the United States, such as polio, smallpox.",
+      "img": "https://i.ibb.co/LYY5fmK/005.png"
+    }
+  ]

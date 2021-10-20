@@ -1,0 +1,20 @@
+.custom_form {    
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+    padding: 50px 20px;
+    border: 1px solid #FF725E;
+    border-radius: 20px;
+}
+
+.custom_email:focus, .custom_password:focus{
+    box-shadow: none;
+    border-color: #FF725E;
+}
+
+.login_button button {
+    border: none;
+    padding: 10px 40px;
+    background-color: #FF725E;
+    border-radius: 50px;
+    color: #fff;
+    font-weight: 700;
+}

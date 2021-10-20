@@ -1,0 +1,29 @@
+.service_container {
+    transition: .7s ease all;
+}
+.service_container:hover {
+    transform: translateY(10px);
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+}
+
+.custom_img {
+    transition: .9s ease all;
+}
+.custom_img:hover {
+    transform: scale(1.07) rotate(1deg);
+}
+
+
+.more_button button {
+    background-color: #fff;
+    border-radius: 10px;
+    border: 1px solid #FF725E;
+    padding: 7px 40px;
+    font-weight: 700;
+    transition: .3s ease all;
+}
+
+.more_button button:hover {
+    background-color: #FF725E;
+    color: #fff;
+}
